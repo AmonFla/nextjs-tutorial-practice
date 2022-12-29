@@ -29,3 +29,8 @@ This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 ### Dynamics Routes
 - [getStaticPath](https://nextjs.org/docs/basic-features/data-fetching#getstaticpaths-static-generation)
 - [Render Markdown](https://github.com/remarkjs/remark)
+- [Essential Info](https://nextjs.org/docs/routing/dynamic-routes)
+- [Fallback to update data](https://nextjs.org/docs/api-reference/data-fetching/get-static-paths#fallback-false)
+- [Catch All Routes](https://nextjs.org/docs/routing/dynamic-routes#catch-all-routes)
+### API Routes
+- [Introduction](https://nextjs.org/docs/api-routes/introduction)
