@@ -19,3 +19,10 @@ This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 - [Tailwind CSS](https://tailwindcss.com/)
 ### Sass
 - [Sass Support](https://nextjs.org/docs/basic-features/built-in-css-support#sass-support)
+### Pre rendering and Data Fetching
+- [Pre rendering](https://nextjs.org/docs/basic-features/pages#pre-rendering)
+- [getStaticProps](https://nextjs.org/docs/basic-features/data-fetching#getstaticprops-static-generation)
+- [getServerSideProps](https://nextjs.org/docs/basic-features/data-fetching#getserversideprops-server-side-rendering)
+### Client Side Rendering
+- [More info](https://nextjs.org/docs/basic-features/data-fetching#fetching-data-on-the-client-side)
+- [SWR Hook](https://swr.vercel.app/)
