@@ -34,3 +34,7 @@ This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 - [Catch All Routes](https://nextjs.org/docs/routing/dynamic-routes#catch-all-routes)
 ### API Routes
 - [Introduction](https://nextjs.org/docs/api-routes/introduction)
+### Others Links
+- [Data Fetching](https://nextjs.org/docs/basic-features/data-fetching/overview)
+- [Environment Varibales](https://nextjs.org/docs/basic-features/environment-variables)
+- [Using Typescript](https://nextjs.org/learn/excel/typescript)
