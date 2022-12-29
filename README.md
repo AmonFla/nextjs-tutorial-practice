@@ -26,3 +26,6 @@ This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 ### Client Side Rendering
 - [More info](https://nextjs.org/docs/basic-features/data-fetching#fetching-data-on-the-client-side)
 - [SWR Hook](https://swr.vercel.app/)
+### Dynamics Routes
+- [getStaticPath](https://nextjs.org/docs/basic-features/data-fetching#getstaticpaths-static-generation)
+- [Render Markdown](https://github.com/remarkjs/remark)
